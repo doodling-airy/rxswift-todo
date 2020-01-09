@@ -1,8 +1,7 @@
 #rxswift-todoapp
 
-this is todo app
-it is constructed a tableview, a textfield, and a button.
+this is TO-DO app is constructed a tableview, a textfield, and a button.
 
-if keyboard show, the textfield and table will transform properly.
+if the keyboard will show, the textfield and table will transform properly.
 
-(several variables are named improperly... troublesome..)
+(several variables are named improperly... i felt troublesome..)
